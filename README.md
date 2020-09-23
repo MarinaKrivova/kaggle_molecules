@@ -1,1 +1,1 @@
-# kaggle_molecules
+# Examining properties of moleculesSome notebooks for the Kaggle Competition 2019 - "Predicting Molecular PropertiesCan you measure the magnetic interactions between a pair of atoms?"
